@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DESAROLLO\\FIRMAS y HUELLA\\HUELLA\\INFO_SYS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{568A434D-8512-4AAE-A85F-17BDFD65EE2E}|INFO_SYS\\INFO_SYS.csproj|d:\\desarollo\\firmas y huella\\huella\\info_sys\\info_sys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568A434D-8512-4AAE-A85F-17BDFD65EE2E}|INFO_SYS\\INFO_SYS.csproj|solutionrelative:info_sys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568A434D-8512-4AAE-A85F-17BDFD65EE2E}|INFO_SYS\\INFO_SYS.csproj|d:\\desarollo\\firmas y huella\\huella\\info_sys\\info_sys\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568A434D-8512-4AAE-A85F-17BDFD65EE2E}|INFO_SYS\\INFO_SYS.csproj|solutionrelative:info_sys\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568A434D-8512-4AAE-A85F-17BDFD65EE2E}|INFO_SYS\\INFO_SYS.csproj|d:\\desarollo\\firmas y huella\\huella\\info_sys\\info_sys\\odbc_conn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568A434D-8512-4AAE-A85F-17BDFD65EE2E}|INFO_SYS\\INFO_SYS.csproj|solutionrelative:info_sys\\odbc_conn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QUERIES.cs",
+              "DocumentMoniker": "D:\\DESAROLLO\\FIRMAS y HUELLA\\HUELLA\\INFO_SYS\\INFO_SYS\\QUERIES.cs",
+              "RelativeDocumentMoniker": "INFO_SYS\\QUERIES.cs",
+              "ToolTip": "D:\\DESAROLLO\\FIRMAS y HUELLA\\HUELLA\\INFO_SYS\\INFO_SYS\\QUERIES.cs",
+              "RelativeToolTip": "INFO_SYS\\QUERIES.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:38:40.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ODBC_CONN.cs",
+              "DocumentMoniker": "D:\\DESAROLLO\\FIRMAS y HUELLA\\HUELLA\\INFO_SYS\\INFO_SYS\\ODBC_CONN.cs",
+              "RelativeDocumentMoniker": "INFO_SYS\\ODBC_CONN.cs",
+              "ToolTip": "D:\\DESAROLLO\\FIRMAS y HUELLA\\HUELLA\\INFO_SYS\\INFO_SYS\\ODBC_CONN.cs",
+              "RelativeToolTip": "INFO_SYS\\ODBC_CONN.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:35:12.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DESAROLLO\\FIRMAS y HUELLA\\HUELLA\\INFO_SYS\\INFO_SYS\\Program.cs",
+              "RelativeDocumentMoniker": "INFO_SYS\\Program.cs",
+              "ToolTip": "D:\\DESAROLLO\\FIRMAS y HUELLA\\HUELLA\\INFO_SYS\\INFO_SYS\\Program.cs",
+              "RelativeToolTip": "INFO_SYS\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAwFYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:34:04.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
